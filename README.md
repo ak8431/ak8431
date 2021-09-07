@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ak8431
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Three.js, D3.js
+- 🌱 I’m currently learning Redux-Saga, Tailwind, AWS Architecture
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me amitkumarmaurya8431@gmail.com
 
