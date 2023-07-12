@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ak8431
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Redux-Saga, Tailwind, AWS Architecture
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning AWS, Cloud Architecture, Terraform
+- 💞️ I’m looking to collaborate on React, Node, Next.js ...
 - 📫 How to reach me amitkumarmaurya8431@gmail.com
 
 <!---
